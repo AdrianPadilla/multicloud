@@ -33,7 +33,7 @@ In this lab, you will:
 3. Copy and paste the following command to the terminal to download the source code. This source code contains the terraform scripts which create the OCI resources required for this workshop. 
 
     ```bash
-    <copy>curl -O https://objectstorage.uk-london-1.oraclecloud.com/p/toASyWGqXKfORRi0qxQZJ7TBBOn5TYwf1PxGQR2JZxVtS-RATjO1PqrVzZtsR9en/n/lrv4zdykjqrj/b/ankit-bucket/o/devops_helidon_to_instance_ocw_hol.zip
+    <copy>curl -O https://objectstorage.uk-london-1.oraclecloud.com/p/iRFfz7j_GYIEcFupnExPfAWMjsNyXotdmmuDKGThHaJ9W4ndC5CgIpJB9tQq9sx_/n/lrv4zdykjqrj/b/ankit-bucket/o/devops_helidon_to_instance_ocw_hol.zip
     unzip ~/devops_helidon_to_instance_ocw_hol.zip</copy>
     ```
 ![download source code](images/download-sourcecode.png)
